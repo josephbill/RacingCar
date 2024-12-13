@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.racingcar"
+    namespace = "com.joseph.racingcar"
     compileSdk = 33
 
     defaultConfig {
-        applicationId = "com.example.racingcar"
+        applicationId = "com.joseph.racingcar"
         minSdk = 21
         targetSdk = 33
         versionCode = 1
